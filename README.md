@@ -7,7 +7,7 @@ Estou sempre buscando evoluir, aprender coisas novas e construir projetos cada v
 
 ## 🧑‍💻 Sobre mim
 
-- 📍 Brasileiro, 17 anos  
+- 📍 Rio de Janeiro - Brasil, 17 anos  
 - 🚀 Estudando para me tornar um desenvolvedor completo  
 - 📚 Curioso, focado e sempre disposto a aprender na prática  
 - 🎯 Interesse especial em backend, modelagem e banco de dados
