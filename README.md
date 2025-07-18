@@ -1,41 +1,37 @@
-<h1 align="center">Olá! 👋 Me chamo Pedro Amorim</h1>
+# 👋 Olá! Me chamo Pedro Amorim
 
-<p align="center">
-  Sou um estudante de programação focado em desenvolvimento de sistemas.  
-  Estou sempre buscando evoluir, aprender coisas novas e construir projetos cada vez mais profissionais.
-</p>
+Sou um estudante de programação focado em desenvolvimento de sistemas.  
+Estou sempre buscando evoluir, aprender coisas novas e construir projetos cada vez mais profissionais.
 
 ---
 
-### 🧑‍💻 Sobre mim
+## 🧑‍💻 Sobre mim
 
-- 📍 Brasileiro, 17 anos  
+- 📍 Brasil - Rio de Janeiro, 17 anos  
 - 🚀 Estudando para me tornar um desenvolvedor completo  
 - 📚 Curioso, focado e sempre disposto a aprender na prática  
-- 🎯 Interesse especial em backend, modelagem e banco de dados
+- 🎯 Interesse especial em backend e banco de dados
 
 ---
 
-### 🛠️ Tecnologias que estou estudando
+## 🛠️ Tecnologias que estou estudando
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" title="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" title="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" title="C#"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" title="PHP"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" height="40" alt="Laravel" title="Laravel"/>
-</p>
+![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg#gh-light-mode-only)
+![PostgreSQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg)
+![C#](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg)
+![PHP](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg)
+![Laravel](https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg)
 
 ---
 
-### 📐 Outras habilidades
+## 📐 Outras habilidades
 
 - 📊 Modelagem de sistemas com UML  
 - 🧠 Lógica de programação e raciocínio computacional
 
 ---
 
-### 📫 Contato
+## 📫 Contato
 
 - ✉️ E-mail: poapamorim@gmail.com  
 - 📁 Meus projetos estão todos aqui no GitHub 👇
