@@ -1,7 +1,8 @@
 <h1 align="center">Olá! 👋 Me chamo Pedro Amorim</h1>
 
 <p align="center">
-  Sou um estudante de programação com foco no desenvolvimento de sistemas, sempre buscando crescer e aprimorar minhas habilidades técnicas.
+  Sou um estudante de programação focado em desenvolvimento de sistemas.  
+  Estou sempre buscando evoluir, aprender coisas novas e construir projetos cada vez mais profissionais.
 </p>
 
 ---
@@ -9,37 +10,36 @@
 ### 🧑‍💻 Sobre mim
 
 - 📍 Brasileiro, 17 anos  
-- 🎯 Estudando para me tornar um desenvolvedor completo  
-- 🚀 Focado em backend, sistemas com banco de dados e lógica de programação  
-- 📚 Sempre buscando aprender mais através de projetos práticos  
+- 🚀 Estudando para me tornar um desenvolvedor completo  
+- 📚 Curioso, focado e sempre disposto a aprender na prática  
+- 🎯 Interesse especial em backend, modelagem e banco de dados
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### 🛠️ Tecnologias que estou estudando
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" title="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" title="PostgreSQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" title="C#"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" title="PHP"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="40" alt="Laravel" title="Laravel"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" height="40" alt="Laravel" title="Laravel"/>
 </p>
 
 ---
 
-### 🧩 Outras habilidades
+### 📐 Outras habilidades
 
-- 📊 Diagramas com UML para modelagem de sistemas  
-- 🧠 Conhecimentos em lógica de programação e estrutura de dados  
-- 🔐 Noções básicas de segurança e boas práticas no código  
+- 📊 Modelagem de sistemas com UML  
+- 🧠 Lógica de programação e raciocínio computacional
 
 ---
 
 ### 📫 Contato
 
 - ✉️ E-mail: poapamorim@gmail.com  
-- 📁 Veja meus projetos aqui no GitHub mesmo!
+- 📁 Meus projetos estão todos aqui no GitHub 👇
 
 ---
 
-<p align="center"><b>“Evoluir todos os dias, um código de cada vez.”</b></p>
+<p align="center"><b>“Cada linha de código é um passo rumo ao futuro.”</b></p>
