@@ -1,16 +1,50 @@
-## Hi there 👋
+<h1 align="center">Olá! 👋 Me chamo Pedro Amorim</h1>
 
-<!--
-**pedruuxz7/pedruuxz7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Sou um estudante de programação com foco no desenvolvimento de sistemas, sempre buscando crescer e aprimorar minhas habilidades técnicas.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧑‍💻 Sobre mim
+
+- 📍 Brasileiro, 17 anos  
+- 🎯 Estudando para me tornar um desenvolvedor completo  
+- 🚀 Focado em backend, sistemas com banco de dados e lógica de programação  
+- 📚 Sempre buscando aprender mais através de projetos práticos  
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" title="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" title="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" title="C#"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" title="PHP"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="40" alt="Laravel" title="Laravel"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" title="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" title="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" title="Linux"/>
+</p>
+
+---
+
+### 🧩 Outras habilidades
+
+- 📊 Diagramas com UML para modelagem de sistemas  
+- 🧠 Conhecimentos em lógica de programação e estrutura de dados  
+- 🔐 Noções básicas de segurança e boas práticas no código  
+
+---
+
+### 📫 Contato
+
+- ✉️ E-mail: poapamorim@gmail.com  
+- 📁 Veja meus projetos aqui no GitHub mesmo!
+
+---
+
+<p align="center"><b>“Evoluir todos os dias, um código de cada vez.”</b></p>
