@@ -7,20 +7,22 @@ Estou sempre buscando evoluir, aprender coisas novas e construir projetos cada v
 
 ## 🧑‍💻 Sobre mim
 
-- 📍 Brasil - Rio de Janeiro, 17 anos  
+- 📍 Brasileiro, 17 anos  
 - 🚀 Estudando para me tornar um desenvolvedor completo  
 - 📚 Curioso, focado e sempre disposto a aprender na prática  
-- 🎯 Interesse especial em backend e banco de dados
+- 🎯 Interesse especial em backend, modelagem e banco de dados
 
 ---
 
 ## 🛠️ Tecnologias que estou estudando
 
-![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg#gh-light-mode-only)
-![PostgreSQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg)
-![C#](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg)
-![PHP](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg)
-![Laravel](https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" title="Java" width="32" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="32" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" title="C#" width="32" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" title="PHP" width="32" style="margin-right: 10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="Laravel" title="Laravel" width="32" style="margin-right: 10px;" />
+</p>
 
 ---
 
